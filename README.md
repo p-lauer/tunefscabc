@@ -7,7 +7,7 @@ Necesseray files to reproduce the analysis presented on the poster "Adjusting Op
 - Python with SpotPy (https://github.com/thouska/spotpy)
 - Perl
 - Fire Dynamics Simulator 6 (https://github.com/firemodels/fds)
-- Lots of time (single run needs approx. 20 h on 400 cores)
+- Lots of time (single run needs approx. 20 h on 1400 cores)
 
 ## Getting started
 
