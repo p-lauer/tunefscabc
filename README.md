@@ -13,3 +13,6 @@ Necesseray files to reproduce the analysis presented on the poster "Adjusting Op
 
 - Put your FDS binary in fast/sims/template/sims/ and mc/sims/template/sims/ 
 - Start fast/start_sens_fast.py and mc/start_sens_fast.py
+
+[![DOI](https://zenodo.org/badge/92737878.svg)](https://zenodo.org/badge/latestdoi/92737878)
+
