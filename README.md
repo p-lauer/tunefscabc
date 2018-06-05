@@ -1,6 +1,6 @@
 # Adjusting Optimization Algorithms For Estimating Material Parameters In Fire Simulation
 
-Necesseray files to reproduce the analysis presented on the poster "Adjusting Optimization Algorithms For Estimating Material Parameters In Fire Simulation" at the 12th International Symposium on Fire Safety Science, June 2017, Lund University, Sweden.
+Necesseray files to reproduce the analysis presented on the poster "Adjusting Optimization Algorithms For Estimating Material Parameters In Fire Simulation" at the 12th International Symposium on Fire Safety Science, June 2017, Lund University, Sweden. [1](https://www.researchgate.net/publication/317548983_Adjusting_Optimization_Algorithms_for_Estimating_Material_Parameters_in_Fire_Simulation)
 
 ## Requirements
 
